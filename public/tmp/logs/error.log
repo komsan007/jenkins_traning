@@ -1,0 +1,54 @@
+2014-09-25 08:22:49 Error: [MissingControllerException] Controller class CakeUnitTestController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeUnitTestController',
+  'plugin' => NULL,
+)
+Request URL: /cakeUnitTest/public/cakeUnitTest/public/favicon.ico
+Stack Trace:
+#0 /vagrant/cakeUnitTest/public/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-25 08:22:50 Error: [MissingControllerException] Controller class CakeUnitTestController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeUnitTestController',
+  'plugin' => NULL,
+)
+Request URL: /cakeUnitTest/public/cakeUnitTest/public/favicon.ico
+Stack Trace:
+#0 /vagrant/cakeUnitTest/public/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-25 08:24:05 Error: [MissingControllerException] Controller class CakeUnitTestController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeUnitTestController',
+  'plugin' => NULL,
+)
+Request URL: /cakeUnitTest/public/cakeUnitTest/public/favicon.ico
+Stack Trace:
+#0 /vagrant/cakeUnitTest/public/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-25 08:24:05 Error: [MissingControllerException] Controller class CakeUnitTestController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeUnitTestController',
+  'plugin' => NULL,
+)
+Request URL: /cakeUnitTest/public/cakeUnitTest/public/favicon.ico
+Stack Trace:
+#0 /vagrant/cakeUnitTest/public/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-25 08:28:40 Error: [MissingControllerException] Controller class CakeUnitTestController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeUnitTestController',
+  'plugin' => NULL,
+)
+Request URL: /cakeUnitTest/public/cakeUnitTest/public/favicon.ico
+Stack Trace:
+#0 /vagrant/cakeUnitTest/public/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-25 08:28:41 Error: [MissingControllerException] Controller class CakeUnitTestController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeUnitTestController',
+  'plugin' => NULL,
+)
+Request URL: /cakeUnitTest/public/cakeUnitTest/public/favicon.ico
+Stack Trace:
+#0 /vagrant/cakeUnitTest/public/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
